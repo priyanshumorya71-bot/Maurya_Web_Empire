@@ -10,7 +10,7 @@ Disallow: /*.json$
 Disallow: /*.txt$
 
 # Sitemap location
-Sitemap: https://priyanshumorya71-bot.github.io/Maurya_Web_Empire-/sitemap.xml
+Sitemap: https://priyanshumorya71-bot.github.io/Maurya_Web_Empire/sitemap.xml
 
 # Crawl delay (seconds)
 Crawl-delay: 2
